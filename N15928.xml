@@ -120,8 +120,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020375_0000_0FAEFA3A2E37AA40"/>
-            <pb facs="tcp:020375_0001_0FAEFA3AD7DA1440"/>
+            <pb facs="unknown:020375_0000_0FAEFA3A2E37AA40"/>
+            <pb facs="unknown:020375_0001_0FAEFA3AD7DA1440"/>
             <p>A JOURNEY FROM PHILADELPHIA TO NEW-YORK, BY WAY OF BURLINGTON AND SOUTH-AMBOY. BY ROBERT SLENDER, <hi>Stocking Weaver.</hi> EXTRACTED FROM THE AUTHOR's JOURNALS.</p>
             <q>
                <l>
@@ -135,7 +135,7 @@
                <hi>PHILADELPHIA:</hi> PRINTED BY FRANCIS BAILEY, AT YORICK's HEAD, IN MARKET STREET. M DCC LXXXVII.</p>
          </div>
          <div type="editor_to_the_reader">
-            <pb facs="tcp:020375_0002_0FAEFA3BD6F9B2D8"/>
+            <pb facs="unknown:020375_0002_0FAEFA3BD6F9B2D8"/>
             <head>THE EDITOR to the READER.</head>
             <opener>
                <salute>COURTEOUS READER,</salute>
@@ -150,14 +150,14 @@
                <hi>He then sighed heavily, and soon after intimated to me, that he was well aware of the malice of critics, the ignorance of the generality of readers, and the small degree of attention the world pays to any production whatever, that is not at least two thou<g ref="char:EOLhyphen"/>sand years old, and imported upwards of one thousand leagues: "This, however, (continued he) ought to be matter of small concern to men in my situation, be they weavers or authors; I find the lamp of life is burning low within me, the flame will soon be in the socket, and then farewell to you, Robert Slender!"</hi>
             </p>
             <p>
-               <pb n="iv" facs="tcp:020375_0003_0FAEFA3D37414768"/>
+               <pb n="iv" facs="unknown:020375_0003_0FAEFA3D37414768"/>
                <hi>Being much at a loss how to account for, or in what sense to understand this odd speech, I only took occasion to observe by way of reply, that, provided he had lived well, and attended faith fully to the duties of his loom, it was a matter of little, very little consequence whether he departed this life at the age of forty or at eighty-five; and that the world would never think the worse of him for having lived to be only "once a man, and not twice a child."</hi>—</p>
             <p>
                <hi>"That I am well convinced of (replied he), but there is one weakness, or rather a delicacy of mind, of which I fear I shall not be able wholly to divest myself in this transitory life, and that is, too great an anxiety for the future fate of that bundle of writings, which are at present locked up in my strong box: I am inclined to hope they will be looked upon in after times not as the rags of a beggar, but rather as the remnants of a prince: as to death, I consider it to be as natural to mankind as sleep; man is no more than a shadow of the great world of nature, which like him must, after the accomplishment of very many ages, be also buried in a lasting state of unconscious repose."</hi>
             </p>
             <p>
                <hi>A few days after, he became delirious, and I saw him no more, till he had departed hence to mingle with the celebrated weavers of antiquity. He had been several times heard to say, that the perfecting of the following little piece cost him full eight months severe labour; and though he could not be persuaded to print it himself, several manuscript copies were nevertheless hand<g ref="char:EOLhyphen"/>ed about among his friends, during his life time; which, it was said, afforded them considerable entertainment as well as edifica<g ref="char:EOLhyphen"/>tion. But, unhappily, this indulgence was not without its evil consequences; inasmuch as a number of various readings occur in the several manuscripts, occasioned, no doubt, by the ignorance of copyists; but the reader will, in this edition, find these care<g ref="char:EOLhyphen"/>fully corrected throughout, from a copy preserved in the author's
-<pb n="v" facs="tcp:020375_0004_0FAEFA3DF2490818"/>
+<pb n="v" facs="unknown:020375_0004_0FAEFA3DF2490818"/>
 journals on the left hand page, compared with several other earlier manuscripts of the same work in the hands of his friends.</hi>
             </p>
             <p>
@@ -181,7 +181,7 @@ journals on the left hand page, compared with several other earlier manuscripts 
             </postscript>
          </div>
          <div type="explanatory_note">
-            <pb n="vi" facs="tcp:020375_0005_0FAEFA3E9EC15250"/>
+            <pb n="vi" facs="unknown:020375_0005_0FAEFA3E9EC15250"/>
             <head>Of the Originality of the Poem.</head>
             <p>
                <hi>ALTHOUGH Horace once made a Journey from Rome to Brundusium in company with Virgil and Mecenas, in order to assist in compromising some differences between Augustus and Antony, yet as our good friend, Robert Slender, travelled with no such companions, and was concern'd in no such great affairs; so neither has he imitated a line of that satire, or Journey, from whence our Latin motto, in the title page, is taken. Such as this poem is, reader, enjoy it. Perhaps we shall give thee more of the same kind in due season; for lo, this is but a small part of the works of Robert Slender: and it is even said there existeth somewhere a humorous and laughable narrative of his Return from York to Philadelphia, by way of Princeton. But this we have not yet been so happy as to discover.</hi>
@@ -227,7 +227,7 @@ journals on the left hand page, compared with several other earlier manuscripts 
       </front>
       <body>
          <div n="1" type="canto">
-            <pb facs="tcp:020375_0006_0FAEFA3F57CC9B08"/>
+            <pb facs="unknown:020375_0006_0FAEFA3F57CC9B08"/>
             <head>CANTO I. Characters of the TRAVELLERS.</head>
             <lg>
                <l>TORMENTED with critics, and pester'd with care,</l>
@@ -260,7 +260,7 @@ journals on the left hand page, compared with several other earlier manuscripts 
                <l>In spite of new faces am always at home.</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:020375_0007_0FAEFA402425FB88"/>
+               <pb n="8" facs="unknown:020375_0007_0FAEFA402425FB88"/>
                <l>POOR Richard, the reel-man, had nothing to say;</l>
                <l>He knew very well I would have my own way;—</l>
                <l>When I said, "My dear Richard, I'm sick of the town,</l>
@@ -300,7 +300,7 @@ journals on the left hand page, compared with several other earlier manuscripts 
                <l>With his wife (and he says I may mention her name)</l>
                <l>SUSANNA SNIPINDA; so charming a dame,</l>
                <l>
-                  <pb n="9" facs="tcp:020375_0008_0FAEFA40D9099F48"/>
+                  <pb n="9" facs="unknown:020375_0008_0FAEFA40D9099F48"/>
 The sun had with pleasure look'd down on her head,</l>
                <l>So freckled was she, and her tresses so red.</l>
             </lg>
@@ -343,7 +343,7 @@ The sun had with pleasure look'd down on her head,</l>
                <l>A barber from Paris, of noble degree,</l>
                <l>(For oft when he takes up his razor, to strap it,</l>
                <l>
-                  <pb n="10" facs="tcp:020375_0009_0FAEFA41A849EB48"/>
+                  <pb n="10" facs="unknown:020375_0009_0FAEFA41A849EB48"/>
 He tells his descent from the line of <hi>Hugh Capet</hi>
                   <note n="*" place="bottom">A popular French nobleman, who, A D. 987. usurped the crown of France, and was the first of a new race of monarchs.</note>)</l>
                <l>This barber, tho' willing for pleasure to stray,</l>
@@ -385,7 +385,7 @@ He tells his descent from the line of <hi>Hugh Capet</hi>
                <l>SOME devil had put it, somehow, in his head</l>
                <l>If he travell'd through Jersey his fortune was made:</l>
                <l>
-                  <pb n="11" facs="tcp:020375_0010_0FAEFA4266EDCE18"/>
+                  <pb n="11" facs="unknown:020375_0010_0FAEFA4266EDCE18"/>
 Some devil had told him (but whether in dreams</l>
                <l>Or waking, I know not) some devil, it seems,</l>
                <l>Had made him believe that the nymphs and the swains</l>
@@ -426,7 +426,7 @@ Some devil had told him (but whether in dreams</l>
                <l>AT cursing and swearing he play'd a good hand,</l>
                <l>But never was easy a minute on land;</l>
                <l>
-                  <pb n="12" facs="tcp:020375_0011_0FAEFA4311836218"/>
+                  <pb n="12" facs="unknown:020375_0011_0FAEFA4311836218"/>
 If the wind was ahead, or his <hi>Kitty</hi> untrue,</l>
                <l>Why, <hi>patience</hi> was all the relief that he knew—:</l>
                <l>In the midst of misfortune he still was serene,</l>
@@ -470,7 +470,7 @@ If the wind was ahead, or his <hi>Kitty</hi> untrue,</l>
                   <note n="*" place="bottom">Shoals in the bay of Delaware.</note>—the breakers—halloo!"</l>
             </lg>
             <lg>
-               <pb n="13" facs="tcp:020375_0012_0FAEFA43D5A66F48"/>
+               <pb n="13" facs="unknown:020375_0012_0FAEFA43D5A66F48"/>
                <l>THE sixth, and the last, that attended our Journey,</l>
                <l>Was a man of the law, a Rhode-Island attorney,</l>
                <l>As cunning as Satan to argue or plead,</l>
@@ -507,7 +507,7 @@ If the wind was ahead, or his <hi>Kitty</hi> untrue,</l>
                <l>" We may go with the waggons the Burlington way."</l>
             </lg>
             <lg>
-               <pb n="14" facs="tcp:020375_0013_0FAEFA449F499520"/>
+               <pb n="14" facs="unknown:020375_0013_0FAEFA449F499520"/>
                <l>" HOLD, puppy," the sailor reply'd in a fret,</l>
                <l>" The devil's not ready to bait for you yet:</l>
                <l>" Even this way you know there is water to pass,</l>
@@ -548,7 +548,7 @@ If the wind was ahead, or his <hi>Kitty</hi> untrue,</l>
                <l>" As how, in three weeks, he will want a new coat."</l>
             </lg>
             <lg>
-               <pb n="15" facs="tcp:020375_0014_0FAEFA462E68AD20"/>
+               <pb n="15" facs="unknown:020375_0014_0FAEFA462E68AD20"/>
                <l>SNIP's heart, at her answer, seem'd ready to break:</l>
                <l>" Snipinda," said he, "I would live for your sake!</l>
                <l>" If I should be <hi>drownded,</hi> indeed, it is true,</l>
@@ -606,7 +606,7 @@ If the wind was ahead, or his <hi>Kitty</hi> untrue,</l>
                <l>These run-a-bout fellows, I cannot but hate 'em,</l>
                <l>With their rings, and their ruffles, and rolls of pomatum:</l>
                <l>
-                  <pb n="16" facs="tcp:020375_0015_0FAEFA46D33C87B0"/>
+                  <pb n="16" facs="unknown:020375_0015_0FAEFA46D33C87B0"/>
 But, gentlemen, (if I may venture to speak</l>
                <l>In the stile I was wont when I dabbled in Greek,</l>
                <l>When I blew on my trumpet, and call'd up my pack,</l>
@@ -644,7 +644,7 @@ But, gentlemen, (if I may venture to speak</l>
                <l>While <hi>Sam</hi> and <hi>Snipinda</hi> walk'd slow in the rear.</l>
             </lg>
             <lg>
-               <pb n="17" facs="tcp:020375_0016_0FAEFA4CEFB6F358"/>
+               <pb n="17" facs="unknown:020375_0016_0FAEFA4CEFB6F358"/>
                <l>DRESS'D, booted, and button'd, and <hi>cutting a shine,</hi>
                </l>
                <l>The Captain came next, with his loaded carbine,</l>
@@ -687,7 +687,7 @@ But, gentlemen, (if I may venture to speak</l>
                <l>" YOU ague-cheek'd, cream-colour'd son of a bitch,</l>
                <l>" Who have sail'd all your life on a fresh-water ditch,</l>
                <l>
-                  <pb n="18" facs="tcp:020375_0017_0FAEFA4E05DE26C8"/>
+                  <pb n="18" facs="unknown:020375_0017_0FAEFA4E05DE26C8"/>
 " Whose mate (answer'd Billy) might be an old wife,</l>
                <l>" Who never have rattled a shroud in your life,</l>
                <l>" Whose guts would come up if a ship were in motion,</l>
@@ -730,7 +730,7 @@ But, gentlemen, (if I may venture to speak</l>
                <l>" To creep in the dust, or to move on the ground!—</l>
                <l>" It is, of all physic, the best I have seen</l>
                <l>
-                  <pb n="19" facs="tcp:020375_0018_0FAEFA4E5C357750"/>
+                  <pb n="19" facs="unknown:020375_0018_0FAEFA4E5C357750"/>
 " To keep out the cold, and to cut up the spleen:</l>
                <l>" Here, madam—miss Cynthia—'tis good, you'll confess—</l>
                <l>" Now, taste; or you'll wish you had been in my mess—</l>
@@ -762,7 +762,7 @@ But, gentlemen, (if I may venture to speak</l>
             </lg>
          </div>
          <div n="4" type="canto">
-            <pb n="20" facs="tcp:020375_0019_0FAEFA4F289AFD30"/>
+            <pb n="20" facs="unknown:020375_0019_0FAEFA4F289AFD30"/>
             <head>CANTO IV. The Chapter of VEXATIONS and DISASTERS.</head>
             <lg>
                <l>COOP'D up in a waggon, the curtains let down,</l>
@@ -800,7 +800,7 @@ But, gentlemen, (if I may venture to speak</l>
                <l>NEXT rose from his ruins tall captain O'Keefe;</l>
                <l>The first thing he thought of was Cynthia's relief,</l>
                <l>
-                  <pb n="21" facs="tcp:020375_0020_0FAEFA4FE4C1F150"/>
+                  <pb n="21" facs="unknown:020375_0020_0FAEFA4FE4C1F150"/>
 Then felt for his sword, but chanc'd on a cane,</l>
                <l>And rush'd at the stageman, to smite him in twain.</l>
             </lg>
@@ -839,7 +839,7 @@ Then felt for his sword, but chanc'd on a cane,</l>
                <l>Where white linnen stockings will ever be clean,</l>
                <l>And g'emmen go dress'd in your black bombazeen;</l>
                <l>
-                  <pb n="22" facs="tcp:020375_0021_0FAEFA50A4960720"/>
+                  <pb n="22" facs="unknown:020375_0021_0FAEFA50A4960720"/>
 Where, with <hi>old continental</hi> our debts we can pay,</l>
                <l>And the BUDS OF his BEAUTY—no blossoms display!</l>
                <l>Where with pretty brass thimbles the streets are all pav'd—</l>
@@ -886,7 +886,7 @@ Where, with <hi>old continental</hi> our debts we can pay,</l>
                <l>" The taylor is dead—"—cry'd Captain O'Keefe—</l>
             </lg>
             <lg>
-               <pb n="23" facs="tcp:020375_0022_0FAEFA515BBA01D8"/>
+               <pb n="23" facs="unknown:020375_0022_0FAEFA515BBA01D8"/>
                <l>" THE taylor is dead (the lawyer exclaim'd)</l>
                <l>" God speed him!—'tis better to die than be maim'd;—</l>
                <l>" For the place where he's gone, may we also prepare,</l>
@@ -928,7 +928,7 @@ Where, with <hi>old continental</hi> our debts we can pay,</l>
                <l>"The night had been dark, and he lost both his shoes."—</l>
             </lg>
             <lg>
-               <pb n="24" facs="tcp:020375_0023_0FAEFA5236F601E0"/>
+               <pb n="24" facs="unknown:020375_0023_0FAEFA5236F601E0"/>
                <l>THEN, he rais'd up his waggon, rejoicing to find</l>
                <l>That, by leaving the top, and the curtains behind,</l>
                <l>We still might proceed; for the body was sound,</l>
@@ -975,7 +975,7 @@ Where, with <hi>old continental</hi> our debts we can pay,</l>
                </l>
             </lg>
             <lg>
-               <pb n="25" facs="tcp:020375_0024_0FAEFA5309F39F68"/>
+               <pb n="25" facs="unknown:020375_0024_0FAEFA5309F39F68"/>
                <l>"FROM what I can gather (cry'd Captain O'Keefe)</l>
                <l>I am sure he might venture to taste of the beef:</l>
                <l>Nay, I think I can guess from the cast of his eye,</l>
@@ -1016,7 +1016,7 @@ Where, with <hi>old continental</hi> our debts we can pay,</l>
                <l>" That a poet of genius (all history shews)</l>
                <l>" Ne'er wanted a puppy to bark at his muse;</l>
                <l>
-                  <pb n="26" facs="tcp:020375_0025_0FAEFA53A317EEB8"/>
+                  <pb n="26" facs="unknown:020375_0025_0FAEFA53A317EEB8"/>
 " And, tho' their productions were never twice read,</l>
                <l>" Yet <hi>Bavius</hi> and <hi>Mevius</hi> must also be fed."</l>
             </lg>
@@ -1063,7 +1063,7 @@ Where, with <hi>old continental</hi> our debts we can pay,</l>
                <l>" The devil is in you not yet to be waking!"—</l>
             </lg>
             <lg>
-               <pb n="27" facs="tcp:020375_0026_0FAEFA55A562CD00"/>
+               <pb n="27" facs="unknown:020375_0026_0FAEFA55A562CD00"/>
                <l>NOW, all were embark'd, and the boat under sail</l>
                <l>With a dark cloudy sky and a stiff blowing gale:</l>
                <l>The wind at north-east made a hollow head sea,</l>
@@ -1113,7 +1113,7 @@ Where, with <hi>old continental</hi> our debts we can pay,</l>
                   <hi>Touppee</hi> was alarm'd at the break of the seas,</l>
                <l>And you, <hi>Robert Slender,</hi> were not at your ease,</l>
                <l>
-                  <pb n="28" facs="tcp:020375_0027_0FAEFA5675FB7540"/>
+                  <pb n="28" facs="unknown:020375_0027_0FAEFA5675FB7540"/>
 Yet couldn't help laughing at Captain <hi>O'Keefe,</hi>
                </l>
                <l>Who shunn'd little <hi>Cynthia</hi>—and cast up his beef;</l>
